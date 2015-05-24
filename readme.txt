@@ -36,5 +36,5 @@ This section describes how to install the plugin and get it working.
 = 2.0 =
 * Fixed early hook of the scripts, which caused errors in the WP_DEBUG mode. 
 
-= 1.5 =
-* List versions from most recent at top to oldest at bottom.
+= 1.1 =
+* 1st version of the plugin. 

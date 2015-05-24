@@ -3,10 +3,10 @@
  * Plugin Name: Table Sorter
  * Plugin URI: http://tablesorter.oregasoft.com
  * Description: This plugin makes your standard HTML tables sortable. For more details, visit plugin's setting page
- * Version: 1.1
+ * Version: 2.0
  * Author: Farhan Noor
  * Author URI: http://linkedin.com/in/thenoors
- * License: Commercial
+ * License: GPLv2 or later
  */
 
 function tablesorter_enque_scripts(){
